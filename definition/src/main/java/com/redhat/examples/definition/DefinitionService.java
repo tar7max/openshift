@@ -27,6 +27,7 @@ public class DefinitionService {
 	  dictionaryMap.put("test123", "Test adding a new definition to API");
 	  dictionaryMap.put("toque", "A typical winter hat without a brim");
 	  dictionaryMap.put("abc", "abc123");
+	  dictionaryMap.put("bonus", "bbb");
 	}
 	
 	public Result lookup(String word) {
